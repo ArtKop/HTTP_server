@@ -1,1 +1,1 @@
-# HTTP_server
+Small school project consisting of two programs: Server and Client. Client sends files to Server and requests them from it through TCP/IP connection and HTTP-like hearders. File type can be any of the following: PDF, JPG, PNG, HTML or TXT. The programs transmit files of size up to 2 MB.
